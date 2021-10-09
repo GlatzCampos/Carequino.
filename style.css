@@ -5,7 +5,7 @@
 }
 
 .background{
-    background-image: url(http://127.0.0.1:5500/img/fundo.jpg);
+    background-image: url(/img/fundo.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
