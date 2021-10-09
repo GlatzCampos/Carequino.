@@ -8,8 +8,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Carequino./Carequino.?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Carequino./Carequino.?style=for-the-badge)
 
-<img src="" alt="Glatz_Burguer image">
-
 >O projeto foi a partir de um trabalho de artes no meu colegio.<br>
 O desafio era treinar html e css fazendo um site parecido com o que o professor mandou.
 
@@ -20,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Wireframe
 - [x] Navbar
 - [x] Body
-- [] Formatação do site
+- [ ] Formatação do site
 - [ ] Responsividade
 
 ## 🤝 Responsáveis
