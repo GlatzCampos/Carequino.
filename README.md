@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Wireframe
 - [x] Navbar
 - [x] Body
-- [ ] Formatação do site
+- [x] Formatação do site
 - [ ] Responsividade
 
 ## 🤝 Responsáveis
